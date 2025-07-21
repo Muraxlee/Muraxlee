@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Murali</h1>
-<h3 align="center">Full Stack Developer • Software Engineer • Builder</h3>
+<h1 align="center" style="color: #00ffe5;">Hi 👋, I'm Murali</h1>
+<h3 align="center" style="color: #cccccc;">⚡ Full Stack Developer • Software Engineer • Builder</h3>
 
 <p align="center">
   <a href="https://github.com/Muraxlee">
@@ -11,14 +11,15 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building: [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git)
+- 🧱 Currently building: [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git)
 - 💬 Ask me about: `C#`, `C++`, `Node.js`, `React`
+- 🌐 Portfolio: [**muralipanneerselvamportfolio.netlify.app**](https://muralipanneerselvamportfolio.netlify.app)
 - 📫 Reach me at: **muralipanneerselvam02@gmail.com**
-- ⚡ Fun Fact: *My debugger knows me better than most of my friends. 😄*
+- ⚡ *My debugger knows me better than most of my friends. 😄*
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,flutter,dart,python,cpp,csharp,dotnet,mysql,postgres,mongodb,firebase,sqlite,bash,git,linux,nginx,docker,electron,arduino,blender,photoshop,postman" />
@@ -26,7 +27,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/muraxlee" target="_blank">
@@ -51,12 +52,12 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&hide_title=false&count_private=true&hide_border=true&theme=default" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muraxlee&theme=default&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Muraxlee&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&hide_border=true&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -64,37 +65,29 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 📊 Most Contributed Repositories (Past Year)
+### 🧠 Top Repositories (Last 12 Months)
 
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/Muraxlee/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="Muraxlee GitHub Trends" />
+  <img src="https://api.githubtrends.io/user/svg/Muraxlee/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="GitHub Trends" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
+### 🚧 Featured Projects
 
-- 💼 [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git) — Smart invoice management system  
-- 🌿 [**Fertilizer Web**](https://github.com/Muraxlee/fertilizer-website) — Website for agricultural product showcase  
-- 📊 [**Sheets Automation**](https://github.com/rikazurrehman/SHEETS-UPDATED) — Data scraping and parsing via Google Sheets
-
----
-
-### 🕹️ GitHub Contribution Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+- 🧾 [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git) — Invoice & payment tracker with automation
+- 🌿 [**Fertilizer Web**](https://github.com/Muraxlee/fertilizer-website) — Agricultural product showcase site
+- 📈 [**Sheets Automation**](https://github.com/rikazurrehman/SHEETS-UPDATED) — Auto data extraction from Google Sheets
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
+### 🎮 Final Boss Mode
+
+> _"In dev life, bugs are the mobs, code is the sword, and Git is your respawn point."_ — **Murali**
+
+---
