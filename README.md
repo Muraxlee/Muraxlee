@@ -1,86 +1,100 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer • Software Engineer • Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muraxlee&label=Profile%20views&color=0e75b6&style=flat" alt="muraxlee" />
-</p>
-
----
-
-### 🔭 I’m currently working on
-[InvoiceFlow](https://github.com/Muraxlee/InvoiceFlow.git)
-
-### 💬 Ask me about
-C#, C++, React, Node.js
-
-### 📫 How to reach me
-muralipanneerselvam02@gmail.com
-
-### ⚡ Fun fact
-I write more commits than emails. My debugger knows me better than my friends. 😄
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muraxlee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/muraxlee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/_mur_ax_lee_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
-  </a>
-  <a href="https://youtube.com/@fizz_gamer" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
-  </a>
-  <a href="https://muralipanneerselvamportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox" />
+  <a href="https://github.com/Muraxlee">
+    <img src="https://komarev.com/ghpvc/?username=Muraxlee&label=Profile%20Views&color=0e75b6&style=flat" alt="Muraxlee" />
   </a>
 </p>
 
 ---
 
-## 🧠 Tech Stack & Tools
+### 🚀 About Me
 
-<p align="left">
+- 🔭 Currently building: [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git)
+- 💬 Ask me about: `C#`, `C++`, `Node.js`, `React`
+- 📫 Reach me at: **muralipanneerselvam02@gmail.com**
+- ⚡ Fun Fact: *My debugger knows me better than most of my friends. 😄*
+
+---
+
+### 🧠 Tech Stack & Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,flutter,dart,python,cpp,csharp,dotnet,mysql,postgres,mongodb,firebase,sqlite,bash,git,linux,nginx,docker,electron,arduino,blender,photoshop,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muraxlee&show_icons=true&locale=en&hide_border=false" alt="muraxlee stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muraxlee&theme=default&hide_border=false" alt="muraxlee streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muraxlee&layout=compact&hide_border=false" alt="muraxlee top languages" />
+  <a href="https://linkedin.com/in/muraxlee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Muraxlee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_mur_ax_lee_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@fizz_gamer" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://muralipanneerselvamportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muraxlee&margin-w=10&row=2&column=4" alt="muraxlee trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&hide_title=false&count_private=true&hide_border=true&theme=default" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muraxlee&theme=default&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&hide_border=true" height="180" />
 </p>
 
 ---
 
-<!-- Dynamic blog section (Optional) -->
-<!-- ## 📝 Latest Blog Posts -->
-<!-- WIP: Coming soon -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🚀 Projects
+### 📊 Most Contributed Repositories (Past Year)
 
-- 🔗 [InvoiceFlow (In Progress)](https://github.com/Muraxlee/InvoiceFlow.git)
-- 🌐 [My Portfolio Website](https://muralipanneerselvamportfolio.netlify.app)
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/Muraxlee/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="Muraxlee GitHub Trends" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🧩 Featured Projects
 
+- 💼 [**InvoiceFlow**](https://github.com/Muraxlee/InvoiceFlow.git) — Smart invoice management system  
+- 🌿 [**Fertilizer Web**](https://github.com/Muraxlee/fertilizer-website) — Website for agricultural product showcase  
+- 📊 [**Sheets Automation**](https://github.com/rikazurrehman/SHEETS-UPDATED) — Data scraping and parsing via Google Sheets
+
+---
+
+### 🕹️ GitHub Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muraxlee/Muraxlee/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
