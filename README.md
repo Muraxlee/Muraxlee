@@ -9,7 +9,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-# 👋 Murali Panneer Selvam
+# 👋 Murali Panneerselvam
 
 ### 🚀 Full-Stack Developer • SaaS Builder • Open Source Enthusiast
 
