@@ -35,7 +35,7 @@ const murali = {
     
     specialties: [".NET Core", "React.js", "SQL Server", "Firebase", "RESTful APIs"],
     interests: ["Gaming", "Streaming", "Open Source"],
-    games: ["Valorant", "Free Fire"],
+    games: ["Valorant", "CS2", "GTA V", "COD"],
     
     philosophy: "Build things people actually use"
 };
