@@ -114,9 +114,9 @@ Automation bot for game progression. Built with Python and Selenium.
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   15+ live projects  │  1000+ active users  │  500+ commits    │
+│   15+ live projects  │  1000+ active users  │  500+ commits     │
 │                                                                 │
-│   4+ years building  │  20+ countries       │  Always learning │
+│   4+ years building  │  20+ countries       │  Always learning  │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
