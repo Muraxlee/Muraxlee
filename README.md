@@ -49,34 +49,6 @@
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Muraxlee&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&hide_border=true&theme=tokyonight" height="180" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🧠 Top Repositories (Last 12 Months)
-
-<p align="center">
-  <img src="https://api.githubtrends.io/user/svg/Muraxlee/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="GitHub Trends" />
-</p>
-
----
 
 ### 🚧 Featured Projects
 
