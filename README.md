@@ -167,9 +167,9 @@ const murali = {
 <a href="https://www.jjbags.in" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-F75C03?style=for-the-badge&logo=shopping-bag&logoColor=white"/>
 </a>
-<a href="https://github.com/Muraxlee/jjbags" target="_blank">
+<!-- <a href="https://github.com/Muraxlee/jjbags" target="_blank">
 <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a> -->
 </p>
 
 </td>
