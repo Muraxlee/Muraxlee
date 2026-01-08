@@ -199,12 +199,12 @@ const murali = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Performance Metrics
 
-<div align="center">
+<!-- <div align="center">
 
-[![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C03&icon_color=F75C03&text_color=c9d1d9)](https://github.com/Muraxlee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C03&text_color=c9d1d9)](https://github.com/Muraxlee)
+![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muraxlee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C03&icon_color=F75C03&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muraxlee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C03&text_color=c9d1d9)
 
-</div>
+</div> -->
 
 <br/>
 
@@ -216,17 +216,17 @@ const murali = {
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Muraxlee&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
-</div>
+</div> -->
 
 <br/>
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muraxlee&bg_color=0D1117&color=F75C03&line=F75C03&point=c9d1d9&area_color=F75C03&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Muraxlee)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muraxlee&bg_color=0D1117&color=F75C03&line=F75C03&point=c9d1d9&area_color=F75C03&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
