@@ -211,7 +211,7 @@ const murali = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muraxlee&theme=radical&hide_border=true&background=0D1117&stroke=F75C03&ring=F75C03&fire=F75C03&currStreakLabel=F75C03&sideLabels=F75C03&dates=c9d1d9)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muraxlee)](https://git.io/streak-stats)
 </div>
 
 <br/>
