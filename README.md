@@ -24,7 +24,7 @@
 const murali = {
     name: "Murali Panneerselvam",
     title: "Full-Stack Developer | Builder | Constantly Learning",
-    location: "Chennai, India",
+    location: "TamilNadu, India",
     focus: [".NET", "React", "SQL", "Firebase", "API Development"],
     
     currently: {
@@ -128,7 +128,7 @@ const murali = {
 </p>
 
 <p align="center">
-<a href="https://github.com/Muraxlee/InvoiceFlow" target="_blank">
+<a href="https://github.com/Muraxlee/Invoice-Publish" target="_blank">
 <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
