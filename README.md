@@ -34,8 +34,7 @@ const murali = {
     },
     
     specialties: [".NET Core", "React.js", "SQL Server", "Firebase", "RESTful APIs"],
-    interests: ["Gaming", "Streaming", "Open Source"],
-    games: ["Valorant", "CS2", "GTA V", "COD"],
+    interests: ["System Design", "Cloud Architecture", "Open Source"],
     
     philosophy: "Build things people actually use"
 };
@@ -89,9 +88,6 @@ const murali = {
 </p>
 
 <p align="center">
-<a href="https://losslessleap.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-F75C03?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="https://github.com/Muraxlee/LosslessLeap" target="_blank">
 <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -108,11 +104,6 @@ const murali = {
 <code>React</code> • <code>Node.js</code> • <code>Firebase</code>
 </p>
 
-<p align="center">
-<a href="https://www.computercommunity.in" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-F75C03?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-</p>
 
 </td>
 </tr>
@@ -144,11 +135,6 @@ const murali = {
 <code>React</code> • <code>Node.js</code> • <code>Express</code>
 </p>
 
-<p align="center">
-<a href="https://mentoreagroproducts.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-F75C03?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-</p>
 
 </td>
 </tr>
@@ -164,9 +150,6 @@ const murali = {
 </p>
 
 <p align="center">
-<a href="https://www.jjbags.in" target="_blank">
-<img src="https://img.shields.io/badge/LIVE-F75C03?style=for-the-badge&logo=shopping-bag&logoColor=white"/>
-</a>
 <!-- <a href="https://github.com/Muraxlee/jjbags" target="_blank">
 <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a> -->
@@ -237,7 +220,7 @@ const murali = {
 <div align="center">
 
 ```ascii
-┌────────────────────────── PLAYER STATS ──────────────────────────┐
+┌─────────────────────── PROFESSIONAL OVERVIEW ─────────────────────┐
 │                                                                   │
 │  LEVEL: Senior Developer          XP: 4+ Years                   │
 │                                                                   │
@@ -245,7 +228,7 @@ const murali = {
 │                                                                   │
 ├───────────────────────────────────────────────────────────────────┤
 │                                                                   │
-│  [ ACHIEVEMENTS UNLOCKED ]                                        │
+│  [ KEY MILESTONES ]                                               │
 │                                                                   │
 │  ⚡ Production Apps Deployed ................ 15+                 │
 │  👥 Active Users Reached ................. 1000+                 │
@@ -254,7 +237,7 @@ const murali = {
 │  📚 Tech Stack Mastered .................... 15+                 │
 │  🎯 Projects Completed ..................... 20+                 │
 │                                                                   │
-│  [ CURRENT QUEST ]                                                │
+│  [ CURRENT FOCUS ]                                                │
 │                                                                   │
 │  → Building scalable web applications                             │
 │  → Mastering .NET & cloud architecture                            │
@@ -274,8 +257,6 @@ const murali = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muraxlee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F75C03?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muralipanneerselvamportfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralipanneerselvam02@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mur_ax_lee_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fizz_gamer)
 
 </div>
 
@@ -283,7 +264,7 @@ const murali = {
 
 <div align="center">
 
-### Ready to build something legendary?
+### Ready to build something impactful?
 
 **Let's team up and create the next big thing**
 
